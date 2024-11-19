@@ -1,0 +1,29 @@
+[tool.poetry]
+name = "keepsafe"
+version = "0.0.1"
+description = "Keepsafe: Securely store and distribute sensitive information like passwords and keys."
+authors = ["Muhammad Fiaz <contact@muhammadfiaz.com>"]
+license = "MIT"
+repository = "https://github.com/muhammad-fiaz/keepsafe"
+homepage = "https://github.com/muhammad-fiaz/keepsafe"
+readme = "README.md"
+keywords = ["secrets", "encryption", "passwords", "security"]
+
+[tool.poetry.dependencies]
+python = "^3.12"
+cryptography = "^43.0.3"
+
+[tool.poetry.dev-dependencies]
+pytest = "^7.0"  # For testing
+
+[tool.poetry.scripts]
+keepsafe = "keepsafe.__main__:main"  # If you have a script for CLI (optional)
+
+[tool.poetry.urls]
+"Documentation" = "https://github.com/muhammad-fiaz/keepsafe#readme"
+"Bug Tracker" = "https://github.com/muhammad-fiaz/keepsafe/issues"
+"Source" = "https://github.com/muhammad-fiaz/keepsafe"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
