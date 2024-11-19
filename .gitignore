@@ -4,3 +4,8 @@
 *.iml
 out
 gen
+/dist/
+/build/
+/.venv/
+/.eggs/
+/keepsafe.egg-info/
