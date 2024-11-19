@@ -12,7 +12,7 @@ setup(
     name="keepsafe",  # Name of your package
     version=VERSION,  # Package version
     author="Muhammad Fiaz",  # Author name
-    author_email="your_email@example.com",  # Author's email
+    author_email="contact@muhammadfiaz.com",  # Author's email
     description=DESCRIPTION,  # Short description
     long_description=LONG_DESCRIPTION,  # Detailed description from README.md
     long_description_content_type="text/markdown",  # The format of the long description
