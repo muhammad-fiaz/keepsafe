@@ -15,7 +15,20 @@
   </a>
 </p>
 
+## Table of Contents
 
+- [Introduction](#)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+  - [Initialize a new file with a master password](#initialize-a-new-file-with-a-master-password)
+  - [Add secrets](#add-secrets)
+  - [Retrieve secrets](#retrieve-secrets)
+  - [Export secrets to `.env` file](#export-secrets-to-env-file)
+- [Testing](#testing)
+- [License](#license)
+- [Contributing](#contributing)
+- [Contact](#contact)
 
 
 Keepsafe is a Python library that helps you securely store and retrieve sensitive information like passwords, API keys, and other secrets. It uses encryption techniques to ensure that your sensitive data is safe, and only accessible using the correct master password or decryption key.
@@ -96,11 +109,13 @@ Keepsafe is distributed under the MIT License. See `LICENSE` for more informatio
 
 ## Contributing
 
-1. Fork the repository.
-2. Create your branch (`git checkout -b feature-xyz`).
-3. Commit your changes (`git commit -am 'Add new feature'`).
-4. Push to the branch (`git push origin feature-xyz`).
-5. Create a new Pull Request.
+We welcome contributions to Keepsafe! Before contributing, please make sure to read our [Code of Conduct](CODE_OF_CONDUCT.md) and follow the guidelines below to ensure a smooth collaboration process.
+
+**Please ensure you follow the [Code of Conduct](CODE_OF_CONDUCT.md) when contributing.**
+
+If you encounter any issues or need assistance, feel free to open an issue or contact the maintainers.
+
+Thank you for your contributions!
 
 ## Contact
 
