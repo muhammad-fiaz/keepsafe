@@ -1,4 +1,21 @@
-# Keepsafe
+<h1 align="center">Keepsafe: Securely store and distribute sensitive information like passwords and keys</h1>
+<p align="center">
+  <img src="https://img.shields.io/pypi/v/keepsafe" alt="PyPI Version" />
+  <img src="https://img.shields.io/pypi/dm/keepsafe" alt="PyPI Downloads" />
+  <img src="https://img.shields.io/pypi/l/keepsafe" alt="License" />
+  <img src="https://img.shields.io/github/workflow/status/muhammad-fiaz/keepsafe/CI" alt="Build Status" />
+  <img src="https://img.shields.io/pypi/pyversions/keepsafe" alt="Python Versions" />
+  <img src="https://img.shields.io/github/issues/muhammad-fiaz/keepsafe" alt="Issues" />
+  <img src="https://img.shields.io/github/issues-pr/muhammad-fiaz/keepsafe" alt="Pull Requests" />
+  <img src="https://img.shields.io/github/last-commit/muhammad-fiaz/keepsafe" alt="Last Commit" />
+  <img src="https://img.shields.io/github/contributors/muhammad-fiaz/keepsafe" alt="Contributors" />
+  <a href="https://github.com/sponsors/muhammad-fiaz">
+    <img src="https://img.shields.io/badge/sponsor-muhammad--fiaz-ff69b4" alt="Sponsor" />
+  </a>
+</p>
+
+
+
 
 Keepsafe is a Python library that helps you securely store and retrieve sensitive information like passwords, API keys, and other secrets. It uses encryption techniques to ensure that your sensitive data is safe, and only accessible using the correct master password or decryption key.
 
