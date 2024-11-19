@@ -3,8 +3,9 @@
   <img src="https://img.shields.io/pypi/v/keepsafe" alt="PyPI Version" />
   <img src="https://img.shields.io/pypi/dm/keepsafe" alt="PyPI Downloads" />
   <img src="https://img.shields.io/pypi/l/keepsafe" alt="License" />
-  <img src="https://img.shields.io/github/workflow/status/muhammad-fiaz/keepsafe/CI" alt="Build Status" />
-  <img src="https://img.shields.io/pypi/pyversions/keepsafe" alt="Python Versions" />
+  <a href="https://github.com/muhammad-fiaz/keepsafe/actions/workflows/github-code-scanning/codeql">
+    <img src="https://github.com/muhammad-fiaz/keepsafe/actions/workflows/github-code-scanning/codeql/badge.svg" alt="CodeQL" />
+  </a>  <img src="https://img.shields.io/pypi/pyversions/keepsafe" alt="Python Versions" />
   <img src="https://img.shields.io/github/issues/muhammad-fiaz/keepsafe" alt="Issues" />
   <img src="https://img.shields.io/github/issues-pr/muhammad-fiaz/keepsafe" alt="Pull Requests" />
   <img src="https://img.shields.io/github/last-commit/muhammad-fiaz/keepsafe" alt="Last Commit" />
